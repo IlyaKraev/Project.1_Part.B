@@ -1,0 +1,11 @@
+Greetings to whomever is grading this,
+
+Just as a heads-up, since I wasn't sure what username and password would be
+appropriate to have for this occasion in the jdbc connector class
+(src/dbutils/Database.java), I just left it as "root" "root".
+
+The necessary files for creating my database are located inside the database 
+folder, separated by function for clarity and ease of review. I hope reviewing
+this project will be as enjoyable as it was creating it.
+
+Kind regards, Ilya K.
